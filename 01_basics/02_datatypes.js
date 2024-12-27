@@ -21,3 +21,5 @@ let state = null
 console.log(typeof null); // object
 console.log(typeof undefined); // type if js
 
+
+
